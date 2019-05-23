@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "/Users/mark/src/TTGOLoraRadio"
+		},
+		{
+			"name": "TTGO Lora Test",
+			"path": "."
+		}
+	],
+    "settings": {
+        "terminal.integrated.env.osx": {
+            "PATH": "/Users/mark/.platformio/penv/bin:/Users/mark/.platformio/penv:/Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/Users/mark/perl5/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/opt/X11/bin:~/.dotnet/tools:/opt/ImageMagick/bin:/Applications/Wireshark.app/Contents/MacOS",
+            "PLATFORMIO_CALLER": "vscode"
+        },
+        "terminal.integrated.env.linux": {
+            "PATH": "/home/mbuckaway/.platformio/penv/bin:/home/mbuckaway/.platformio/penv:/home/mbuckaway/.local/bin:/home/mbuckaway/bin:/home/mbuckaway/perl5/bin:/home/mbuckaway/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/mbuckaway/.dotnet/tools:/home/mbuckaway/.dotnet/tools",
+            "PLATFORMIO_CALLER": "vscode"
+        }
+    }
+}
