@@ -3,4 +3,30 @@ build
 .vscode
 _temp_by_dltool
 src/wifipasswd.h
+.pioenvs/*.a
+.pioenvs/*.bin
+.pioenvs/*.elf
+.pioenvs/*.o
+.pioenvs/ttgo-lora32-v1/*.a
+.pioenvs/ttgo-lora32-v1/*.bin
+.pioenvs/ttgo-lora32-v1/*.elf
+.pioenvs/ttgo-lora32-v1/*.o
+*.dblite
+*.bin
+*.elf
+*.hash
+*.swp
 
+.pioenvs/structure.hash
+.pioenvs/.sconsign.dblite
+.pioenvs/ttgo-lora32-v1/libFrameworkArduino.a
+.pioenvs/.sconsign.dblite
+.pioenvs/structure.hash
+.pioenvs/ttgo-lora32-v1/lib151/libSD.a
+.pioenvs/ttgo-lora32-v1/lib209/libFS.a
+.pioenvs/ttgo-lora32-v1/lib8aa/libWiFi.a
+.pioenvs/ttgo-lora32-v1/lib9da/libSPI.a
+.pioenvs/ttgo-lora32-v1/liba3e/libRTC_ID274.a
+.pioenvs/ttgo-lora32-v1/liba8a/libHeltec ESP32 Dev-Boards_ID6051.a
+.pioenvs/ttgo-lora32-v1/libd03/libWire.a
+.pioenvs/ttgo-lora32-v1/src/main.cpp.o

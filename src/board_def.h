@@ -6,7 +6,7 @@
 #define LORA_V2_0_OLED  0
 
 // #define LORA_SENDER 0
-#define LORA_SENDER 0
+#define LORA_SENDER 1
 
 //#define ENABLE_DS3231 0
 
